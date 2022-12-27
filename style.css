@@ -1,0 +1,23 @@
+body {
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+    border: 1px solid burlywood;
+    border-radius: 15px;
+}
+
+.card {
+    border-bottom: 5px solid burlywood;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around; 
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ddebf8;
+    color: #2b2839;
+    font-size: 13px;
+
+}
